@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:0,#EXTM3U
+#EXTINF:-1 TVK
+#EXTINF:0,https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
+#EXTINF:-1 TVK2
+#EXTINF:0,https://livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8
+#EXTINF:-1 TV5
+#EXTINF:0,http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w424287754.m3u8
+#EXTINF:-1 TV9
+#EXTINF:0,http://203.176.130.123:8989/live/ctv9_480k.stream/chunklist_w656074115.m3u8
+#EXTINF:-1 Bayon
+#EXTINF:0,https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
+#EXTINF:-1 BTV
+#EXTINF:0,https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
+#EXTINF:-1 SeaTv
+#EXTINF:0,http://203.176.130.123:8989/live/seatv_480k.stream/chunklist_w649842582.m3u8?mtvstarttime=0&mtvendtime=1650668114&mtvhash=FdZ4vfOmcKYJ1f1ZoHo78lK2LUmA4B0mpvllsJ5JNcg%3D
+#EXTINF:-1 Apsara
+#EXTINF:0,http://203.176.130.123:8989/live/apsaratv_480k.stream/chunklist_w2102806989.m3u8
+#EXTINF:-1 PNN TV
+#EXTINF:0,http://203.176.130.123:8989/live/pnn_480k.stream/chunklist_w1457817293.m3u8
+#EXTINF:-1 MSJ
+#EXTINF:0,http://124.248.165.18:1935/live/myStream.smil/chunklist_w646558228_b2260000_sleng.m3u8
+#EXTINF:-1 Khmer tv
+#EXTINF:0,https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+#EXTINF:-1 FreshNews
+#EXTINF:0,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist_w649883526_b1396000.m3u8
+#EXTINF:-1 WIKITV
+#EXTINF:0,http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/chunklist_w1435335492_b1431072.m3u8
+#EXTINF:-1 3ABN Kids
+#EXTINF:0,https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+#EXTINF:-1 Love Nature 
+#EXTINF:0,http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="CH5"CH5(1080)
+#EXTINF:0,https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1 TV9
+#EXTINF:0,https://stream-04.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xg5NfGi8hhPG3bxMP8zTIkiWLdZqVbtQWO3nHZ4auW-p)/dm/3/x74wlgj/s/live-2.m3u8
+#EXTINF:-1 NBT TV2
+#EXTINF:0,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 one news
+#EXTINF:0,http://news1.live14.com/stream/news1_low.m3u8
+#EXTINF:-1 TV Nation
+#EXTINF:0,https://stream-04.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSY5ZNkF7T-fnRJW-7x_DFGfKhDF6BammxhukgEnH7tr3)/dm/3/x6eoldf/d/live-0.m3u8
+#EXTINF:-1 Workpoint tv
+#EXTINF:0,https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8iEr26HIyELGRpVnhg4YpTcLmDFOIFIdioBDusDBy0VG)/dm/3/x6g9qjj/s/live-0.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+#EXTINF:0,#EXTINF:-1 ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:0,#EXTINF:-1 DLTV
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+#EXTINF:0,#EXTINF:-1 Lao VN
+https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/chunklist.m3u8
+#EXTINF:0,#EXTINF:-1 VBS
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1175209978_b1228800.m3u8
+#EXTINF:0,#EXTINF:-1 ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:0,#EXTINF:-1 HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:0,#EXTINF:-1 Macau
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:0,#EXTINF:-1 RHK31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+#EXTINF:0,#EXTINF:-1 Hongkong TV
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:0,#EXTINF:-1 Good Tv Taiwan
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:0,#EXTINF:-1 Shangyu
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:0,#EXTINF:-1 WNI JAPAN
+http://movie.mcas.jp/mcas/wn1_2/chunklist.m3u8
+#EXTINF:0,#EXTINF:-1 Indonesia Metro
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1178059926_b1492000_sleng.m3u8
+#EXTINF:0,#EXTINF:-1 INCTV
+https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1100_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,#EXTINF:-1 Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+#EXTINF:0,#EXTINF:-1 KBS
+https://livecloud.pstatic.net/navertv/lip2_kr/anmss1127/UiOA18Ees6JdFEK2gWFcqR_9Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/chunklist_720.m3u8?_lsu_sa_=3669601c68fa3535b7064293640261149b193a587122d9c93ef62e0a4ea935a949850be4302666f1411136812622465a74104981def5a8381e768f868074e69cff84043273577f048f585a66c86a8d506675804eae34e24cf35d660f6cb2db52be5765c864413f9b92601d7c929c8f359adcc9c1826d080dcd739c9dde66d080f24093cfcc8d4a9aae127cf01fb2a52a7c0b96396f9e1d1a8dcc3e82d69e13c5105d934076a50db9a339917118a5b0c4&_lsu_et_=1650627283
+#EXTINF:0,#EXTINF:-1 YTN
+https://livecloud.pstatic.net/navertv/lip2_kr/anmss1138/UiOA18Efu6NcFEK2gGpYohT6Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/chunklist_480.m3u8?_lsu_sa_=3a396615582a3115850322f26442c5163be331188a2d692d3f86e3025e3a33499f834b103c469cf5e1803d01d12ef6ef29f195e7f80cd1ead2d4748890d190b508b65fa91061f6087c6e48f32d0dc85e3aad04a8f009eae3c8eb220df365480baa0e0654341003bef95a37dda62205cd91d8e6616aafe6da1900c6b9dcf113ec01beebb147778bdbebf0adc8912ef83ec86f136c137ec551f08da897de933e9a276ff898cf27cf111e0c097a66da4ef0&_lsu_et_=1650627556
+#EXTINF:0,#EXTINF:-1 SBS
+https://livecloud.pstatic.net/navertv/lip2_kr/anmss1094/UiOA18Eesq1VFEK2gG9crxr8Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/chunklist_480.m3u8?_lsu_sa_=3f294a1768103a655a07b2766b72b41eeb3b3388642919283786c0048eb63139b9896b3236765cf201af3ed1c32006b5214c62e8bdd197e37f1c40e217ef9631eeed8b135c21eb52076c375d8e4cc7737ffbf0b0a76e0089b226fcd7407fa5fbd254a1a6d1e6085794cdcae56a7bb2408679e1910d6f34a6500babdc5500b45e2d740013f1a72a61837636e0fd0666106f83aadb1b10d3a11b08f539189065b3e80db3c24afd791d804c9279c05f1ca5&_lsu_et_=1650627670
+#EXTINF:0,#EXTINF:-1 MTN
+https://livecloud.pstatic.net/navertv/lip2_kr/anmss0009/UiOA18Efu6ZdFEK2gWxWqhz2Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/chunklist_480.m3u8?_lsu_sa_=3339fd10080131955e0802ae6b62ea1c4b033ca89a23099e3f46640fde5d36591c8fcbec376624f5316632915b2ec6db2c5610d5ebdd070304840c02352fc6a0e31bbe08930cd98c56f8bba3630e45ec2f52d130c98c73d6cf27cd8dd30e73ec83cc8791596eaf3c42bd711abe1ec792813a4e4fe6fc8c8d73b79ccf36b76d27529a3f2dca68ea9e63fdca1b02c18a1ba511f0c4475926f37bb4101760f04bcdc266b4aa828d279fd1de678d97b2228e&_lsu_et_=1650627787
+#EXTINF:0,#EXTINF:-1 YONhab
+https://livecloud.pstatic.net/navertv/lip2_kr/anmss0042/UiOA18Efu6BaFEK2gWhbrh75Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/chunklist_480.m3u8?_lsu_sa_=3579771128ff33750603c2226692381d7bae3058e521b98e3dd6880aae5438a90f890b0f3fc68bf331453431ea2af644b0ac727e6199b637cb7b97f33691748869d5f64f6b5432a39606ebda69a461d1e8419719dd6662ee81341265eb40abfa1526e9140742f7d2070770de98084f6c7c6d1e8417cc7cdb26094fe630c7649c821a93ac63b76581ad86e79f23fc415a4603b6bc648c416e36b3090bbaa49104826e2132dcdedda1ae0467aa74524671&_lsu_et_=1650627934
+#EXTINF:0,#EXTINF:-1 The show
+https://livecloud.akamaized.net/navertv/lip2_de/fnmss0003/UiOA1cAYs6xUCDmq_2pdrxX_fiPNU-ScV4lBZA4DnM96WrRiL8MF4j6ouvDO_g3k4OWk2r_1sxE0boeN/hdntl=exp=1650628067~acl=*%2fUiOA1cAYs6xUCDmq_2pdrxX_fiPNU-ScV4lBZA4DnM96WrRiL8MF4j6ouvDO_g3k4OWk2r_1sxE0boeN%2f*~data=hdntl~hmac=9a56a1f181bbd63317febf8e54e2d05b600cdacc12bc3dfc5b9b350aa574f0d0/chunklist_720.m3u8
+#EXTINF:0,#EXTINF:-1 spot
+https://livecloud.pstatic.net/sports/lip2_kr/anmss0004/UiOA3cEbvKFYDyHJgGpZqB79fjimQeDhPIgoAA1k-tUGJaAJVsUTi0euvou05nnsjPC9srGfpghUZos/hdntl=exp=1650628249~acl=*%2FUiOA3cEbvKFYDyHJgGpZqB79fjimQeDhPIgoAA1k-tUGJaAJVsUTi0euvou05nnsjPC9srGfpghUZos%2F*~data=hdntl~hmac=47397ba483721136df4e0f5beb471507c6c8ce7e15efc485760916b4eeb71f19/chunklist_480.stream.m3u8
+#EXTINF:0,#EXTINF:-1 Golf
+https://livecloud.pstatic.net/sports/lip2_kr/anmss0005/UiOA3cEbvqxUCiHJgGpZqBX9ejimQeDhPIgoAA1k-tUGJaAJVsUTi0euvou05nnsjPC9srGfpghUZos/hdntl=exp=1650628956~acl=*%2FUiOA3cEbvqxUCiHJgGpZqBX9ejimQeDhPIgoAA1k-tUGJaAJVsUTi0euvou05nnsjPC9srGfpghUZos%2F*~data=hdntl~hmac=77cd3824013817196139a71ad200abf893b665ec51e516ad5fe7e98aa5dff3fe/chunklist_480.stream.m3u8
+#EXTINF:0,#EXTINF:-1 TBS
+https://livecloud.pstatic.net/navertv/lip2_kr/anmss0041/UiOA0MAcuKNdFEK2gm1YrR33Z1O0RZ2KPeFMA2oC4KlhJMt2RLoD9FfRvPS1hBWQ6Imxw9fz12k/playlist.m3u8?_lsu_sa_=3ba95c15984537b55306622d6e1277103b463168fe29798337f6c90baeec3f397987eb203746d6f8f1703b81182736f38aacc5a70e42dadff520cc943bf7e52e1da153e3099f480f8f32842b9f0d883bca39bc5095363e2e7506f51508bf6bfe10ff419e705f053d7dfb1c855b47f1d390b0fb502c7aa316e3d23225ba404dc8aa7efcc9ba5734dd2977aa26924088ad784aed5d548310eba2d1a39ed3628b2b19b8f1bfbe9040a7bd383a003792a3c7&_lsu_et_=1650629147
+#EXTINF:0,#EXTINF:-1 Chanel A
+https://livecloud.akamaized.net/navertv/lip2_kr2/anmss1132/UiOA18EevKZeFEK2gG9coxn-Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/hdntl=exp=1650629515~acl=*%2fUiOA18EevKZeFEK2gG9coxn-Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag%2f*~data=hdntl~hmac=96b3c9af5589b6b3ee891263f0e4091e9257d1bfa41f22fc04d9ddec4821006f/chunklist_720.m3u8
+#EXTINF:0,#EXTINF:-1 MBC
+https://livecloud.akamaized.net/navertv/lip2_kr2/anmss1097/UiOA0ccfvaRUFEK2gG9crR75Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/hdntl=exp=1650629795~acl=*%2fUiOA0ccfvaRUFEK2gG9crR75Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag%2f*~data=hdntl~hmac=8e728a27153b3e290905479d4f964d6141757b9fc02ade9253fa4e90a29b3591/chunklist_720.m3u8
+#EXTINF:0,#EXTINF:-1 NHK
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:0,#EXTINF:-1 RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:0,#EXTINF:-1 CBSN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,#EXTINF:-1 CCX
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
